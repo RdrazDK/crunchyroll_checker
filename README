@@ -1,0 +1,19 @@
+# Crunchyroll-Checker Read Before Using Code
+This Is A Public Crunchyroll Checker Use For Education Based Or For Checking Bulk Accounts Not For Hacking
+.
+# Requirments To Install 
+1. pip install selenium
+2. pip install webdriver-manager
+3. pip install colorama
+4. pip install pyfiglet
+# Direct Requirments To Install
+1. pip install selenium webdriver-manager colorama pyfiglet
+.
+# Commands To Use 
+1. python Semi.py
+.
+# Important Notice 
+Always Use Vpn If Using India Server Vpn Code Will Not Work Properly & Use This Server Vpn 
+1. United States
+2. Japan
+3. Or Other 
